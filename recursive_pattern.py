@@ -1,7 +1,7 @@
 import turtle
 # Import the turtle module to draw graphics on the screen
 
-# Recursive function to draw a modified edge
+# Recursive function to draw  modified edge
 
 def draw_edge(length, depth):
     """
